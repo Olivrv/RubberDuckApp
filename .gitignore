@@ -320,3 +320,13 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+obj/Debug/RubberDuck.RubberDuck.resources
+obj/Release/RubberDuck.RubberDuck.resources
+obj/Release/RubberDuck.Properties.Resources.resources
+obj/Release/RubberDuck.exe
+obj/Release/RubberDuck.csproj.FileListAbsolute.txt
+obj/Release/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+obj/Debug/RubberDuck.Properties.Resources.resources
+obj/Debug/RubberDuck.exe
+obj/Debug/RubberDuck.csproj.FileListAbsolute.txt
+obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
