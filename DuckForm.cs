@@ -13,7 +13,6 @@ namespace RubberDuck
         Random random = new Random();
         public bool enter = false;
 
-        int count_messages = 0;
         public int height = 2;
 
         public RubberDuck()
